@@ -32,6 +32,9 @@ body {
   width: 600px;
 }
 
+.activity-description {
+  max-width: 450px;
+
 .activities {
   background: #fefae0;
   padding: 10px;
