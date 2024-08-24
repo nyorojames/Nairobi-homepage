@@ -24,7 +24,7 @@ body {
   text-shadow: 0 0 2px black;
 }
 
-.Nairobi-activities {
+.activities h1 {
   font-size: 36px;
 }
 
@@ -33,7 +33,8 @@ body {
 }
 
 .activity-description {
-  max-width: 450px;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .activities {
